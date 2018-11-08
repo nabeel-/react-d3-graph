@@ -16,8 +16,8 @@ export default class Marker extends React.Component {
                 viewBox="0 -5 10 10"
                 refX={this.props.refX}
                 refY="0"
-                markerWidth="6"
-                markerHeight="6"
+                markerWidth="8"
+                markerHeight="8"
                 orient="auto"
                 fill={this.props.fill}
             >
